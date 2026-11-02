@@ -1,0 +1,58 @@
+{
+  "title": "静物：折纸、玩偶与地球仪",
+  "camera": "Nikon Z 6",
+  "archive": "raw.pixls.us",
+  "archive_id": 3581,
+  "raw_url": "https://raw.pixls.us/getfile.php/3581/nice/Nikon - Z 6 - 14bit 14bit compressed (3:2).NEF",
+  "exif_url": "https://raw.pixls.us/getfile.php/3581/exif/DSC_0751.NEF.exif.txt",
+  "license": "CC BY-SA 4.0 (photo metadata); archive additionally lists CC0 1.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "sha256": "8ca94584578b35a422744c1a610174ce37df0691588edfdecaec3111b3fbbb02",
+  "downloaded_at": "2026-10-28",
+  "filename": "Nikon-Z6.NEF",
+  "source_note": "RAW 的 Artist 为 Ludger Heide，Copyright 为 (CC-BY-SA 4.0) Ludger Heide；公开档案另标 CC0。保留作者署名，网页照片及其预设衍生效果按 CC BY-SA 4.0 提供。",
+  "usage": "网页中展示由此 RAW 生成的预设预览与操作截图，不随网页打包 RAW 或预设文件。",
+  "author": "Ludger Heide",
+  "archive_license": "CC0 1.0",
+  "archive_license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "metadata_copyright": "(CC-BY-SA 4.0) Ludger Heide",
+  "modifications": "StyleDeck RAW 显影、预设色彩处理、缩放与 WebP 编码。软件截图另有裁切和独立标注覆盖层。",
+  "session_samples": [
+    {
+      "filename": "Canon-5D-IV.CR2",
+      "archive_id": 983,
+      "author": "Lothar Kimmeringer",
+      "raw_url": "https://raw.pixls.us/getfile.php/983/nice/Canon - EOS 5D Mark IV - RAW (3:2).CR2",
+      "sha256": "02b23f9cc6dc4c99fb39aa4d1f65ac227804d06461ac1bd0f842aa2f3beb8fe4",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "downloaded_at": "2026-10-28",
+      "metadata_note": "Artist: Lothar Kimmeringer；Copyright 为空或未提供。",
+      "usage": "用于四照片 C1 演示会话，网页只包含实际界面截图，不分发 RAW。"
+    },
+    {
+      "filename": "Sony-a7III.ARW",
+      "archive_id": 2414,
+      "author": null,
+      "raw_url": "https://raw.pixls.us/getfile.php/2414/nice/Sony - ILCE-7M3 - 14bit 14bit compressed (3:2).ARW",
+      "sha256": "250784580ea527442c09004417bb0eead484f2bf3ee8f9121a776ac65bb50d0f",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "downloaded_at": "2026-10-28",
+      "metadata_note": "Artist: 空；未据此推定作者身份；Copyright 为空或未提供。",
+      "usage": "用于四照片 C1 演示会话，网页只包含实际界面截图，不分发 RAW。"
+    },
+    {
+      "filename": "Fujifilm-XT4.RAF",
+      "archive_id": 3918,
+      "author": null,
+      "raw_url": "https://raw.pixls.us/getfile.php/3918/nice/Fujifilm - X-T4 - 14bit 14bit compressed (3:2).RAF",
+      "sha256": "871836938ffa695f4c41765ddb107c2703ce755f7f3ced7e10f9e04746f1734e",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "downloaded_at": "2026-10-28",
+      "metadata_note": "Artist: 空；未据此推定作者身份；Copyright 为空或未提供。",
+      "usage": "用于四照片 C1 演示会话，网页只包含实际界面截图，不分发 RAW。"
+    }
+  ]
+}

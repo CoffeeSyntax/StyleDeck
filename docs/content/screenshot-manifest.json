@@ -1,0 +1,380 @@
+[
+  {
+    "file": "assets/screenshots/start.webp",
+    "width": 2880,
+    "height": 1708,
+    "source": "01-start.png"
+  },
+  {
+    "file": "assets/screenshots/import.webp",
+    "width": 1760,
+    "height": 896,
+    "source": "02-import-file.png"
+  },
+  {
+    "file": "assets/screenshots/enlarged-cool.webp",
+    "width": 2320,
+    "height": 1560,
+    "source": "07-enlarged-cool.png"
+  },
+  {
+    "file": "assets/screenshots/enlarged-f400.webp",
+    "width": 2320,
+    "height": 1560,
+    "source": "08-enlarged-f400.png"
+  },
+  {
+    "file": "assets/screenshots/favorite.webp",
+    "width": 2320,
+    "height": 1560,
+    "source": "09-favorite.png"
+  },
+  {
+    "file": "assets/screenshots/import-entry.webp",
+    "width": 900,
+    "height": 400,
+    "source": "01-start.png",
+    "crop": [
+      0,
+      910,
+      900,
+      1310
+    ]
+  },
+  {
+    "file": "assets/screenshots/c1-target.webp",
+    "width": 1024,
+    "height": 449,
+    "source": "16-c1-target.png",
+    "crop": [
+      0,
+      0,
+      1024,
+      449
+    ]
+  },
+  {
+    "file": "assets/screenshots/c1-copy.webp",
+    "width": 1024,
+    "height": 128,
+    "source": "16-c1-target.png",
+    "crop": [
+      0,
+      572,
+      1024,
+      700
+    ]
+  },
+  {
+    "file": "assets/screenshots/session-start.webp",
+    "width": 2880,
+    "height": 1708,
+    "source": "20-session-start.png",
+    "crop": [
+      0,
+      64,
+      2880,
+      1772
+    ]
+  },
+  {
+    "file": "assets/screenshots/session-canon.webp",
+    "width": 2880,
+    "height": 1708,
+    "source": "22-session-canon.png",
+    "crop": [
+      0,
+      64,
+      2880,
+      1772
+    ]
+  },
+  {
+    "file": "assets/screenshots/session-sony.webp",
+    "width": 2880,
+    "height": 1708,
+    "source": "23-session-sony.png",
+    "crop": [
+      0,
+      64,
+      2880,
+      1772
+    ]
+  },
+  {
+    "file": "assets/screenshots/session-nikon.webp",
+    "width": 2880,
+    "height": 1708,
+    "source": "24-session-nikon.png",
+    "crop": [
+      0,
+      64,
+      2880,
+      1772
+    ]
+  },
+  {
+    "file": "assets/screenshots/compare.webp",
+    "width": 2880,
+    "height": 1708,
+    "source": "24-session-nikon.png",
+    "crop": [
+      0,
+      64,
+      2880,
+      1772
+    ]
+  },
+  {
+    "file": "assets/screenshots/one-selected.webp",
+    "width": 2880,
+    "height": 1708,
+    "source": "25-session-one-selected.png",
+    "crop": [
+      0,
+      64,
+      2880,
+      1772
+    ]
+  },
+  {
+    "file": "assets/screenshots/select.webp",
+    "width": 2880,
+    "height": 1708,
+    "source": "26-session-selected.png",
+    "crop": [
+      0,
+      64,
+      2880,
+      1772
+    ]
+  },
+  {
+    "file": "assets/screenshots/shortlist.webp",
+    "width": 2880,
+    "height": 1708,
+    "source": "27-session-shortlist.png",
+    "crop": [
+      0,
+      64,
+      2880,
+      1772
+    ]
+  },
+  {
+    "file": "assets/screenshots/workspace.webp",
+    "width": 2880,
+    "height": 1708,
+    "source": "28-session-workspace.png",
+    "crop": [
+      0,
+      64,
+      2880,
+      1772
+    ]
+  },
+  {
+    "file": "assets/screenshots/session-picker.webp",
+    "width": 1760,
+    "height": 896,
+    "source": "21-session-picker.png"
+  },
+  {
+    "file": "assets/screenshots/session-picker-stage.webp",
+    "width": 2880,
+    "height": 1708,
+    "source": "21-session-picker.png",
+    "presentation": "真实系统文件选择窗口居中，周围为中性留白；未合成 App 控件"
+  },
+  {
+    "file": "assets/screenshots/c1-multiple.webp",
+    "width": 3024,
+    "height": 1708,
+    "source": "19-c1-multiple.png",
+    "crop": [
+      0,
+      64,
+      3024,
+      1772
+    ]
+  },
+  {
+    "file": "assets/screenshots/save.webp",
+    "width": 824,
+    "height": 484,
+    "source": "32-session-save.png"
+  },
+  {
+    "file": "assets/screenshots/saved.webp",
+    "width": 2880,
+    "height": 1708,
+    "source": "33-session-saved.png",
+    "crop": [
+      0,
+      64,
+      2880,
+      1772
+    ]
+  },
+  {
+    "file": "assets/screenshots/saved-status.webp",
+    "width": 1120,
+    "height": 151,
+    "source": "33-session-saved.png",
+    "crop": [
+      0,
+      64,
+      1120,
+      215
+    ]
+  },
+  {
+    "file": "assets/screenshots/c1-pushed.webp",
+    "source": "34-session-pushed.png",
+    "width": 2880,
+    "height": 1708,
+    "crop": [
+      0,
+      64,
+      2880,
+      1772
+    ]
+  },
+  {
+    "file": "assets/screenshots/c1-result.webp",
+    "source": "35-c1-session-result.png",
+    "width": 3024,
+    "height": 1710,
+    "crop": [
+      0,
+      64,
+      3024,
+      1774
+    ]
+  },
+  {
+    "file": "assets/screenshots/fullscreen.webp",
+    "source": "29-fullscreen.png",
+    "width": 3024,
+    "height": 1898,
+    "crop": null
+  },
+  {
+    "file": "assets/screenshots/fullscreen-left.webp",
+    "source": "30-fullscreen-left.png",
+    "width": 3024,
+    "height": 1898,
+    "crop": null
+  },
+  {
+    "file": "assets/screenshots/fullscreen-right.webp",
+    "source": "31-fullscreen-right.png",
+    "width": 3024,
+    "height": 1898,
+    "crop": null
+  },
+  {
+    "file": "assets/screenshots/shortlist-tight.webp",
+    "source": "37-shortlist-tight.png",
+    "width": 2880,
+    "height": 1708,
+    "crop": [
+      0,
+      64,
+      2880,
+      1772
+    ],
+    "note": "在真实教程副本内通过现有图片大小滑杆设为300后重新采集；保持未推送状态。"
+  },
+  {
+    "file": "assets/screenshots/push-button.webp",
+    "source": "37-shortlist-tight.png",
+    "width": 800,
+    "height": 251,
+    "crop": [
+      2080,
+      64,
+      2880,
+      315
+    ]
+  },
+  {
+    "file": "assets/screenshots/push-target-entry.webp",
+    "source": "38-push-context.png",
+    "width": 680,
+    "height": 216,
+    "crop": [
+      2200,
+      64,
+      2880,
+      280
+    ]
+  },
+  {
+    "file": "assets/screenshots/push-existing-mode.webp",
+    "source": "39-c1-existing-target.png",
+    "width": 1024,
+    "height": 269,
+    "crop": [
+      0,
+      180,
+      1024,
+      449
+    ]
+  },
+  {
+    "file": "assets/screenshots/push-session-picker.webp",
+    "source": "40-push-session-picker.png",
+    "width": 1760,
+    "height": 896,
+    "crop": null
+  },
+  {
+    "file": "assets/screenshots/push-copy-option.webp",
+    "source": "41-push-copy-option.png",
+    "width": 980,
+    "height": 120,
+    "crop": [
+      20,
+      580,
+      1000,
+      700
+    ]
+  },
+  {
+    "file": "assets/screenshots/push-new-mode.webp",
+    "source": "42-push-new-target.png",
+    "width": 1024,
+    "height": 269,
+    "crop": [
+      0,
+      180,
+      1024,
+      449
+    ]
+  },
+  {
+    "file": "assets/screenshots/push-target-confirm.webp",
+    "source": "39-c1-existing-target.png",
+    "width": 500,
+    "height": 90,
+    "crop": [
+      260,
+      790,
+      760,
+      880
+    ]
+  },
+  {
+    "file": "assets/screenshots/push-summary.webp",
+    "source": "34-session-pushed.png",
+    "width": 1400,
+    "height": 58,
+    "crop": [
+      0,
+      154,
+      1400,
+      212
+    ]
+  }
+]
