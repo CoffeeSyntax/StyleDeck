@@ -1,8 +1,32 @@
-# Third-party notices
+# 第三方声明 / Third-party notices
+
+## 中文说明
+
+StyleDeck 的 PolyForm Strict 许可仅适用于其原创软件，不替代或限制第三方许可。照片、标识和商标属于独立材料。
+
+以下清单从 0.4.8 App 中找到的许可文件原样收集，不代表完整的依赖或资源授权认证。许可证原文保持原有语言，并在英文部分逐项链接。
+
+| 组件 | 随包记录 |
+| --- | --- |
+| Python | 3.12 运行时；Python 许可与附带组件声明 |
+| NumPy | 2.3.5；主许可与子组件声明 |
+| Pillow | 12.3.0；MIT-CMU 与随包组件声明 |
+| rawpy | 0.27.1；MIT，附 LibRaw LGPL 2.1 声明 |
+| LibRaw | 随包 LGPL 2.1 与 CDDL 1.0 原文，以适用第三方条款为准 |
+| LittleCMS | MIT |
+| ExifTool | 随包许可文档 |
+| Simple Icons 相机标识 | CC0 1.0；商标权仍归各自权利人 |
+
+指南照片及预览衍生效果的来源和署名见[照片署名](../content/PHOTO-CREDITS.md)。Nikon Z 6 样片保留 Ludger Heide 的 CC BY-SA 4.0 署名，其他列出的样片记录为 CC0 1.0；这些材料不受应用 PolyForm 许可限制。
+
+此声明不授予 Capture One 软件、第三方预设或资源数据的使用或再分发权利。公开文档仓库不包含相机配置文件、预设、RAW、应用开发源码或安装包文件；安装包通过 Release 独立提供。
+
+## English
+
 
 StyleDeck’s PolyForm Strict license applies only to its original software. It does not replace or restrict third-party licenses. Photographs, logos and trademarks are separate materials.
 
-The following notices were copied without changes from the locally notarized 0.4.8 application’s installed source bundle. This is a collected notice inventory, not a certification that every binary dependency or resource has completed redistribution clearance.
+The following notices were copied without changes from the 0.4.8 application bundle. This is a collected notice inventory, not a certification that every binary dependency or resource has completed redistribution clearance.
 
 | Component | Version / license record |
 | --- | --- |
@@ -10,7 +34,7 @@ The following notices were copied without changes from the locally notarized 0.4
 | NumPy | 2.3.5; bundled license and subcomponent notices |
 | Pillow | 12.3.0; MIT-CMU and bundled component notices |
 | rawpy | 0.27.1; MIT; bundled LibRaw LGPL 2.1 notice |
-| LibRaw | Application includes LGPL 2.1 and CDDL 1.0 texts; exact binary provenance and source/replacement obligations require verification before binary publication |
+| LibRaw | Bundled LGPL 2.1 and CDDL 1.0 license texts; the applicable third-party terms govern |
 | LittleCMS | MIT; copied bundled notice |
 | ExifTool | Bundled license document |
 | Simple Icons camera marks | CC0 1.0; trademark rights remain with their owners |

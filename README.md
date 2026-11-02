@@ -1,6 +1,6 @@
 # StyleDeck
 
-[English](README.en.md) · [中文使用指南](docs/index.html?lang=zh) · [English guide](docs/en.html?lang=en)
+[English](README.en.md) · [中文使用指南](https://coffeesyntax.github.io/StyleDeck/index.html?lang=zh) · [English guide](https://coffeesyntax.github.io/StyleDeck/en.html?lang=en)
 
 Capture One 工作流的独立辅助工具：并排比较已有预设、整理候选、检查与微调效果，再将选中的候选推回 Capture One 继续处理。
 
@@ -8,7 +8,9 @@ Capture One 工作流的独立辅助工具：并排比较已有预设、整理�
 
 ## 版本与下载
 
-当前准备发布 **0.4.8 / build 37，Apple Silicon（arm64）**。公开下载入口尚未启用。
+**0.4.8 / build 37，Apple Silicon（arm64）**。
+
+[免费下载 DMG](https://github.com/CoffeeSyntax/StyleDeck/releases/download/v0.4.8/StyleDeck-0.4.8-arm64.dmg) · [SHA-256 校验文件](https://github.com/CoffeeSyntax/StyleDeck/releases/download/v0.4.8/StyleDeck-0.4.8-arm64.dmg.sha256) · [版本说明](https://github.com/CoffeeSyntax/StyleDeck/releases/tag/v0.4.8)
 
 安装包经过 Developer ID 签名及 Apple 公证。公证表示通过 Apple 的分发安全检查，不代表 Capture One 官方认证或资源授权审核。
 

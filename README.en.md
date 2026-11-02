@@ -1,12 +1,14 @@
 # StyleDeck
 
-[中文](README.md) · [User guide](docs/en.html?lang=en)
+[中文](README.md) · [User guide](https://coffeesyntax.github.io/StyleDeck/en.html?lang=en)
 
 An independent companion for Capture One workflows. Compare installed styles side by side, shortlist looks, inspect and adjust previews, then send selected candidates to Capture One for further work.
 
 ## Version and download
 
-**0.4.8 / build 37, Apple Silicon (arm64)** is being prepared for release. Public downloads are not enabled yet.
+**0.4.8 / build 37, Apple Silicon (arm64)**
+
+[Download DMG](https://github.com/CoffeeSyntax/StyleDeck/releases/download/v0.4.8/StyleDeck-0.4.8-arm64.dmg) · [SHA-256 checksum](https://github.com/CoffeeSyntax/StyleDeck/releases/download/v0.4.8/StyleDeck-0.4.8-arm64.dmg.sha256) · [Release notes](https://github.com/CoffeeSyntax/StyleDeck/releases/tag/v0.4.8)
 
 The installer is Developer ID signed and Apple notarized. Notarization is a distribution security check, not Capture One endorsement or a rights clearance.
 

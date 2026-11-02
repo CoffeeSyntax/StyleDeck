@@ -1,5 +1,7 @@
 # 照片署名与授权
 
+[English](PHOTO-CREDITS.en.md)
+
 摄影：**Ludger Heide**。
 
 原始照片：Nikon Z 6 静物样片，raw.pixls.us 档案编号 **3581**。
